@@ -1,0 +1,9 @@
+.itemOpen{
+    display: none;
+}
+.open{
+    display: block;
+}
+.item{
+    cursor: pointer;
+} 
